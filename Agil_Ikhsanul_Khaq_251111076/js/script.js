@@ -1,5 +1,4 @@
-/* GANTI NOMOR WA TOKO: format 62 + nomor tanpa 0 di depan */
-var WA_NUMBER = '6281234567890';
+var WA_NUMBER = '628444444444';
 var PH = function(n) { return 'img/ph-' + n + '.svg'; };
 
 function waLink(t) { return 'https://wa.me/' + WA_NUMBER + '?text=' + encodeURIComponent(t); }
